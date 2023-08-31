@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+
+# Editor/IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Arquivos de build ou compilação
+/dist/
+/build/
+/out/
+*.log
+
+# Arquivos de ambiente local
+.env
+.env.local
+.env.*.local
+
+# Arquivos de cache ou configuração do IDE
+.cache/
+.eslintcache
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Outros
+.DS_Store
+Thumbs.db
